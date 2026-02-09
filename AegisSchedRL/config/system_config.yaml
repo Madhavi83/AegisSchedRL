@@ -1,0 +1,13 @@
+normalization:
+  cpu_ratio:      {min: 0.0, max: 1.0, clip: true}
+  mem_ratio:      {min: 0.0, max: 1.0, clip: true}
+  energy_ratio:   {min: 0.0, max: 1.0, clip: true}
+  queue_ratio:    {min: 0.0, max: 1.0, clip: true}
+  bw_ratio:       {min: 0.0, max: 1.0, clip: true}
+  lat_ms:         {min: 0.0, max: 300.0, clip: true}
+  is_edge:        {min: 0.0, max: 1.0, clip: true}
+
+  task_workload:  {min: 0.0, max: 1.0, clip: true}
+  task_priority:  {min: 0.0, max: 1.0, clip: true}
+  task_deadline:  {min: 0.0, max: 1.0, clip: true}
+

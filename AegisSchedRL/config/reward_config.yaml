@@ -1,0 +1,11 @@
+reward:
+  weights:
+    lambda_D: 1.0
+    lambda_E: 0.5
+    lambda_L: 0.5
+    lambda_S: 2.0
+    lambda_F: 0.5
+  caps:
+    D_max: 5.0
+    E_max: 10.0
+

@@ -1,0 +1,9 @@
+{
+  "task_id": 1,
+  "workload": 120,
+  "priority": 4,
+  "deadline": 20,
+  "workload_max": 500,
+  "priority_max": 5,
+  "deadline_max": 50
+}

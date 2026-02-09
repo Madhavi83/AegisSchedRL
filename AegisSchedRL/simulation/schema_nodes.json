@@ -1,0 +1,19 @@
+{
+  "nodes": [
+    {
+      "node_id": 1,
+      "node_type": "edge",
+      "cpu_avail": 60,
+      "cpu_max": 100,
+      "mem_avail": 3,
+      "mem_max": 4,
+      "energy_avail": 80,
+      "energy_max": 100,
+      "queue_len": 2,
+      "queue_max": 10,
+      "lat_ms": 20,
+      "bw_mbps": 50,
+      "bw_max": 100
+    }
+  ]
+}
